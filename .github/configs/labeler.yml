@@ -1,0 +1,5 @@
+# Branch pattern
+feature:
+  - head-branch: ['^feat']
+fix:
+  - head-branch: ['^fix/']
