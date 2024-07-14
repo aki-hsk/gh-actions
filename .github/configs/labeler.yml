@@ -2,4 +2,4 @@
 feature:
   - head-branch: ['^feat']
 fix:
-  - head-branch: ['^fix/']
+  - head-branch: ['^fix']
